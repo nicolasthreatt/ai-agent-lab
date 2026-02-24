@@ -1,3 +1,7 @@
 slack_sdk
 python-dotenv
-anthropic
+
+# LLM backends
+google-genai         # --llm gemini
+anthropic            # --llm claude
+openai               # --llm codex
